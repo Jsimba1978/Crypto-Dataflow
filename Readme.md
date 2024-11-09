@@ -1,6 +1,9 @@
 
 # AWS Ethereum Dataflow Pipeline
 
+![AWS Dataflow Pipeline Visualization](https://github.com/Jsimba1978/Crypto-Dataflow/blob/main/Pipeline%20Visualizing/stepfunctions_graph%20(1).png)
+
+
 ## Project Overview
 
 This document provides a detailed overview of the "AWS Ethereum Dataflow Pipeline," designed to extract, transform, and analyze data from the Ethereum Blockchain leveraging a suite of AWS services. The pipeline is optimized for performance, scalability, and cost-efficiency, providing deep insights into Ethereum transactions.
