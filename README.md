@@ -1,4 +1,4 @@
-![AWS Ethereum Dataflow Pipeline Visualization](https://github.com/FaisalxWattoo/AWS-Ethereum-Dataflow-Pipeline/blob/main/Pipeline%20Visualizing/stepfunctions_graph%20(1).png "AWS Ethereum Dataflow Pipeline Visualization")
+![AWS Crypto Dataflow Pipeline Visualization](https://github.com/FaisalxWattoo/AWS-Ethereum-Dataflow-Pipeline/blob/main/Pipeline%20Visualizing/stepfunctions_graph%20(1).png "AWS Ethereum Dataflow Pipeline Visualization")
 
 # AWS Ethereum Dataflow Pipeline
 
